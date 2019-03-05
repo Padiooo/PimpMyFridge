@@ -1,6 +1,6 @@
 # PimpMyFridge
 
-Cadre :
+## Cadre : ##
 
 - Jaune => valeur demandé
 - Rouge => valeur frigo
